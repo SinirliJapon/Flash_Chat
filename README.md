@@ -1,6 +1,6 @@
 # flash_chat_firebase
 
-A new Flutter project.
+Flash-Chat
 
 ## Getting Started
 
