@@ -2,7 +2,7 @@
 
 Flash-Chat
 
-## Getting Started
+## Information
 
 This project is a basic chat application using Flutter that leverages Firebase. The app's primary purpose is to enable users to send messages to multiple users, with the ability for users to register, log in and log out of the app. By using this app, users can easily stay connected and communicate with others.
 
